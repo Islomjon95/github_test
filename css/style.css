@@ -2,3 +2,10 @@ h1{
     color: red;
     text-align: center;
 }
+
+p{
+    width: 75%;
+    height: 80vh;
+    margin: 0 auto;
+    text-align: justify;
+}
